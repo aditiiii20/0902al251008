@@ -1,4 +1,5 @@
-#include <stdio.h>
+Question1:- MISSING NUMBER 
+    #include <stdio.h>
 
 int main()
 {
